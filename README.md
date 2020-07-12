@@ -16,4 +16,4 @@
 3. Now, check for win
 ### End loop
 8. **When game is over:**
-    * Ask for restart the game
+    * Ask for to restart the game
