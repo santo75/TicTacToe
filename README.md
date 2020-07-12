@@ -14,5 +14,6 @@
     * Chooses place on board
     * Check for availability of choosen place
 3. Now, check for win
-4. When game is over:
+### End loop
+4. **When game is over:**
     * Ask for restart the game
