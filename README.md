@@ -1,6 +1,6 @@
-#Tic Tac Toe
+# Tic Tac Toe
 ---
-##Steps involved in creating this game: 
+## Steps involved in creating this game: 
 1. Draw a board
 1. Input Players name
 1. Choose Tac (X/O)
