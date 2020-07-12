@@ -139,7 +139,6 @@ if __name__ == "__main__":
                 Restart()
                 break
             elif restart == 'N':
-                flag = True
                 play_again = False
                 break
             else:
